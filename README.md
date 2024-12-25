@@ -7,7 +7,7 @@
 
 Committed to continuous learning and innovation, I bring technical expertise, problem-solving skills, and a passion for innovation to every project I undertake.
 
-<br>
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
