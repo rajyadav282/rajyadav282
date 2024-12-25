@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Yadav</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
  
-<br>
+<br> 
 
   I am a skilled full-stack developer ,  pursuing  B.E. at Laxmi Narain College Of Technology with a CGPA of 8.40/10. Proficient in React, Next.js, TypeScript, Python, and Node.js, I excel at building modern, scalable, and user-friendly web applications.
 
